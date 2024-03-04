@@ -1,4 +1,4 @@
-class Solver {
+class Solver {2 6 2 5 3 5 5 0 1 1 0 0 
   private Board board;
   private int depth;
   private MoveOutput moveOutput;
